@@ -6,8 +6,8 @@ A simple CLI program written in Go to count the frequency of words in a user-pro
 
 1. Clone or download this repository:
    ```sh
-   git clone https://github.com/your-username/word-frequency-counter.git
-   cd word-frequency-counter
+   git clone https://github.com/eliuttth-dev/golang-word-frequency-counter.git
+   cd golang-word-frequency-counter
    ```
 2. Run the program
     ```
